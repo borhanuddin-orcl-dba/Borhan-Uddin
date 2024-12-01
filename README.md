@@ -6,8 +6,8 @@
   - [School Management System](https://github.com/borhanuddin-orcl-dba/sms-apex)
 - <b>Oracle Forms and Reports</b>
   - [School Management System](https://github.com/borhan-uddin/sms1) 
-- <b>PHP, MySQL</b>
-  - [Library Management System](https://github.com/borhan-uddin/libraryManagementSystem)
+- <b>HTML, CSS, JAVASCRIPT, JQUERY </b>
+  - [School Website](https://github.com/borhan-uddin/libraryManagementSystem)
 
 <!--<h2>📺 Popular YouTube Videos</h2>
 
@@ -21,7 +21,7 @@
 
 - [SQL Fundamental](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
 - [Introduction to Cyber Security](https://www.simplilearn.com/learn-cyber-security-basics-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
-- [Workshop on Oracle Database Administration-(Search-02178)](https://verify.iits-bd.com/)
+- [Workshop on Oracle Database Administration-(Search By-02178)](https://verify.iits-bd.com/)
 <h2> 📞 Connect with me:</h2>
 
 
