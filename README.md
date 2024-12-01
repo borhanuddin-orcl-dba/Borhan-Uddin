@@ -3,7 +3,7 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Oracle Apex</b>
-  - [School Management System](https://github.com/borhan-uddin/sms2/tree/main)
+  - [School Management System](https://github.com/borhanuddin-orcl-dba/sms-apex)
 - <b>Oracle Forms and Reports</b>
   - [School Management System](https://github.com/borhan-uddin/sms1) 
 - <b>PHP, MySQL</b>
