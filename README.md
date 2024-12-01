@@ -19,8 +19,8 @@
 -->
 <h2>📜 Certifications</h2>
 
-- [SQL Fundamental](https://certificates.simplicdn.net/share/thumb_7445741_1728593590.png)
-- [Introduction to Cyber Security](https://www.simplilearn.com/learn-cyber-security-basics-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
+- [SQL Fundamental](https://certificates.simplicdn.net/share/thumb_6799045_1719022023.png)
+- [Introduction to Cyber Security](https://certificates.simplicdn.net/share/thumb_7445741_1728593590.png)
 - [Workshop on Oracle Database Administration-(Search By-02178)](https://verify.iits-bd.com/)
 <h2> 📞 Connect with me:</h2>
 
