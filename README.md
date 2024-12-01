@@ -19,8 +19,9 @@
 -->
 <h2>📜 Certifications</h2>
 
-- [Responsive Web Design](https://www.freecodecamp.org/certification/yameen/responsive-web-design)
-
+- [SQL Fundamental](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
+- [Introduction to Cyber Security](https://www.simplilearn.com/learn-cyber-security-basics-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
+- [Workshop on Oracle Database Administration-(Search-02178)](https://verify.iits-bd.com/)
 <h2> 📞 Connect with me:</h2>
 
 
