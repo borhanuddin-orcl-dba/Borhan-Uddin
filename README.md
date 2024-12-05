@@ -10,9 +10,9 @@
   - [School Website](https://github.com/borhanuddin-orcl-dba/School-Website)
 
 <h3>
-</b>School Project Video<b>
+<!--</b>School Project Video<b>
 </h3>
-- [Click Me](https://youtu.be/AjEMUflwx1s)
+
 <!--<h2>📺 Popular YouTube Videos</h2>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
